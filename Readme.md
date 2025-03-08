@@ -52,10 +52,4 @@ During training, images are generated and saved in the `generated_images/` folde
 - Experiment with different GAN architectures such as **DCGAN** or **WGAN**.
 - Fine-tune hyperparameters for better performance.
 
-## Acknowledgments
-- **COVID-19 Radiography Dataset**
-- TensorFlow/Keras framework for deep learning
-
----
-This project is for research and educational purposes. It should not be used for medical diagnosis.
 
